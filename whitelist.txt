@@ -31,6 +31,8 @@ tmall.com
 alipay.com
 aliyun.com
 jd.com
+ele.me
+elemecdn.com
 
 # custom
 
