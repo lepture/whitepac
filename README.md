@@ -7,7 +7,7 @@ or later.
 It's time for a new white list proxy. And it seems that GFW is using white
 list right now.
 
-This project is inspired by (gfw_whitelist)[https://github.com/n0wa11/gfw_whitelist].
+This project is inspired by [gfw_whitelist](https://github.com/n0wa11/gfw_whitelist).
 
 ## Help
 
