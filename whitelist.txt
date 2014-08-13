@@ -11,6 +11,10 @@ tudou.com
 iqiyi.com
 letv.com
 xiami.com
+acfun.tv
+bilibili.tv
+bilibili.com
+yinyuetai.com
 
 # assets cdn
 zhimg.com
@@ -20,6 +24,7 @@ qbox.me
 doubanio.com
 alipayobjects.com
 xiami.net
+elemecdn.com
 
 # popular
 baidu.com
@@ -32,7 +37,6 @@ alipay.com
 aliyun.com
 jd.com
 ele.me
-elemecdn.com
 
 # custom
 
@@ -95,7 +99,6 @@ lehecai.com
 mediaplex.com
 1778.com
 mapabc.com
-wsj.com
 discuz.net
 snyu.com
 5173.com
@@ -118,11 +121,9 @@ l99.com
 irs01.com
 love21cn.com
 miaozhen.com
-v.iask.com
 baihe.com
 xici.net
 stockstar.com
-wikipedia.org
 yoka.com
 gongchang.com
 ifeng.com
@@ -249,7 +250,6 @@ ccb.com
 xinnet.com
 egou.com
 kaixin001.com
-bilibili.tv
 eb80.com
 gtimg.com
 88db.com
@@ -261,7 +261,6 @@ xlpan.com
 58.com
 makepolo.com
 777wyx.com
-acfun.tv
 cntv.net
 kanimg.com
 netease.com
@@ -352,7 +351,6 @@ betrad.com
 51img1.com
 dayoo.com
 uuzu.com
-cache.netease.com
 tremormedia.com
 hdslb.com
 yyets.com
@@ -370,7 +368,6 @@ hc360.com
 ename.net
 qq937.com
 baixing.com
-my.cl.ly
 wandoujia.com
 seowhy.com
 scanscout.com
@@ -627,7 +624,7 @@ xiazaiba.com
 diandian.com
 91.com
 crsky.com
-img.cctvpic.com
+cctvpic.com
 aibang.com
 babytree.com
 synacast.com
@@ -641,7 +638,6 @@ blueidea.com
 snsfun.cc
 woniu.com
 loli.vg
-yinyuetai.com
 youboy.com
 iloveyouxi.com
 miercn.com
