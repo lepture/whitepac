@@ -6,6 +6,11 @@ renren.com
 douban.com
 qq.com
 tencent.com
+youku.com
+tudou.com
+iqiyi.com
+letv.com
+xiami.com
 
 # assets cdn
 zhimg.com
@@ -13,6 +18,8 @@ alicdn.com
 qiniucdn.com
 qbox.me
 doubanio.com
+alipayobjects.com
+xiami.net
 
 # popular
 baidu.com
@@ -20,6 +27,10 @@ baidu.com
 126.com
 126.net
 taobao.com
+tmall.com
+alipay.com
+aliyun.com
+jd.com
 
 # custom
 
@@ -29,7 +40,6 @@ xilu.com
 gamesville.com
 cnepub.com
 120ask.com
-tudou.com
 kdnet.net
 doubleclick.com
 yolk7.com
@@ -67,8 +77,6 @@ mumayi.com
 iask.com
 ffdy.cc
 ifengimg.com
-youku.com
-aliyun.com
 caing.com
 chinamobile.com
 cnwest.com
@@ -113,7 +121,6 @@ baihe.com
 xici.net
 stockstar.com
 wikipedia.org
-letv.com
 yoka.com
 gongchang.com
 ifeng.com
@@ -342,7 +349,6 @@ smzdm.com
 betrad.com
 51img1.com
 dayoo.com
-tmall.com
 uuzu.com
 cache.netease.com
 tremormedia.com
@@ -415,12 +421,10 @@ harrenmedianetwork.com
 b2b168.com
 293.net
 61.com
-xiami.net
 local
 abang.com
 pengyou.com
 icson.com
-iqiyi.com
 brothersoft.com
 msn.com
 atdmt.com
@@ -465,7 +469,6 @@ nuomi.com
 21cn.com
 mogujie.com
 fx120.net
-alipayobjects.com
 xungou.com
 donews.com
 china.com
@@ -558,7 +561,6 @@ qunar.com
 vipshop.com
 go2map.com
 kankan.com
-xiami.com
 shuangtv.net
 gamestlbb.com
 ellechina.com
@@ -575,7 +577,6 @@ james520.com
 wumii.com
 wordpress.org
 tom.com
-alipay.com
 huaban.com
 hi-pda.com
 ulink.cc
