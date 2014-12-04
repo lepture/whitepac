@@ -70,11 +70,7 @@ function FindProxyForURL(url, host) {
   }
 
   if (validateIp(host)) {
-    for (var i = 0; i < DIRECT_NET.length; i++) {
-      if (isInNet(host, DIRECT_NET[i])) {
-        return "DIRECT";
-      }
-    }
+    return "DIRECT";
   }
 
   if (isInDomains(host, DIRECT_DOMAIN)) {
