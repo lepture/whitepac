@@ -39,6 +39,7 @@ jd.com
 ele.me
 
 # custom
+github.com
 
 # others
 xilu.com
@@ -291,7 +292,6 @@ uuu9.com
 lietou.com
 ccidnet.com
 cqnews.net
-flickr.com
 mmstat.com
 ad1111.com
 2345.com

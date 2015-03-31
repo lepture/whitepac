@@ -1,2 +1,3 @@
 *.pyc
 proxy.pac
+fabfile.py
