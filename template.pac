@@ -65,6 +65,9 @@ function FindProxyForURL(url, host) {
   if (/\.cn$/.test(host)) {
     return "DIRECT";
   }
+  if (/\.local$/.test(host)) {
+    return "DIRECT";
+  }
   if (~url.indexOf('?direct=')) {
     return "DIRECT";
   }

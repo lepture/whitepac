@@ -12,11 +12,17 @@ iqiyi.com
 letv.com
 xiami.com
 acfun.tv
+acg.tv
+acgvideo.com
 bilibili.tv
 bilibili.com
 yinyuetai.com
 
+amap.com
+tower.im
+
 # assets cdn
+baidupcs.com
 zhimg.com
 alicdn.com
 qiniucdn.com
@@ -39,7 +45,7 @@ jd.com
 ele.me
 
 # custom
-github.com
+# github.com
 
 # others
 xilu.com
